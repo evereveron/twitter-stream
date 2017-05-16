@@ -1,0 +1,13 @@
+{
+  "applications": [
+    {
+      "type": "sandbox",
+      "id": "twitter",
+      "name": "Twitter",
+      "blurb": "this is a stream of relevant tweets",
+      "publisher": "Symphony",
+      "url": "https://localhost:8080/index.html",
+      "domain": "localhost"
+    }
+  ]
+}
