@@ -1,0 +1,13 @@
+{
+  "applications": [
+    {
+      "type": "sandbox",
+      "id": "twitter-stream",
+      "name": "Twitter",
+      "blurb": "this is a stream of relevant tweets",
+      "publisher": "Jasmine",
+      "url": "https://localhost:8080/controller.html",
+      "domain": "localhost"
+    }
+  ]
+}

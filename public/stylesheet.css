@@ -1,0 +1,20 @@
+#tweets-container ul {
+	list-style-type: none;
+}
+#tweets-container li {
+	background-color: #ccccec;
+	padding: 25px;
+	margin: 10px;
+}
+#tweets-container li:hover {
+	background-color: lavender;
+}
+#tweets-container span {
+	display: inline;
+}
+#tweets-container span.tweets-text {
+	float: right;
+}
+#tweets-container span.date {
+	float: left;
+}
